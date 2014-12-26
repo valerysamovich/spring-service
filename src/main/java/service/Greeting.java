@@ -7,7 +7,7 @@
  * Greeting representation class with resources.
  */
 
-package hello;
+package service;
 
 public class Greeting {
 

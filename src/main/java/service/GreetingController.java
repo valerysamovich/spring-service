@@ -7,7 +7,7 @@
  * Greeting representation class with resources.
  */
 
-package hello;
+package service;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
