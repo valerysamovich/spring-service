@@ -2,3 +2,17 @@ spring-service
 ==============
 
 RESTful Web Service with Spring.
+
+Requirements
+------------
+
+- JDK 1.6 or later
+- Maven 3.0+
+
+How to run
+----------
+
+To run application use `mvn spring-boot:run`. Or build the JAR file with `mvn clean package` and run the JAR with `java -jar target/gs-rest-service-0.1.0.jar`.
+
+
+
