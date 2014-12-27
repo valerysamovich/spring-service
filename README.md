@@ -23,3 +23,13 @@ When service is up, visit  `http://localhost:8080/greeting` to see:
 }
 ```
 
+Provide a name query string parameter with `http://localhost:8080/greeting?name=User`. 
+Notice how the value of the content attribute changes from `"Hello, World!"` to 
+`"Hello User!"`:
+
+```
+{
+    "id":2,
+    "content":"Hello, User!"
+}
+```
