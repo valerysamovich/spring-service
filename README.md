@@ -1,4 +1,4 @@
-# Spring RESTFul service
+# spring-service
 
 RESTful Web Service with Spring.
 
