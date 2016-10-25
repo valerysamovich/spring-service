@@ -1,5 +1,5 @@
 /**
- * @file JSONEncodeDemo.java
+ * @file Application.java
  * @author Valery Samovich
  * @version 1.0.0
  * @date 11/19/2014
