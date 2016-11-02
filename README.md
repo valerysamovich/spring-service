@@ -1,4 +1,4 @@
-# spring-restful-service
+# spring-skeleton [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](LICENSE)
 
 RESTful Web Service with Spring.
 
